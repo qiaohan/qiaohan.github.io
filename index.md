@@ -1,12 +1,12 @@
 ## 欢迎来到乔晗的个人主页
 
-You can use the [editor on GitHub](https://github.com/qiaohan/qiaohan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+目前就职于虹软中国（杭州），视觉算法工程师，感兴趣的方向为Image Caption，SLAM，OCR，Content-based Image Retrieval
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My CV
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 2016,7~2017,4 网易，杭州研究院，算法工程师
+* 2015,8~2015,10 百度，百度外卖研发中心，算法实习生
+* 2015,4~2015,7 美团，机器学习与NLP，算法实习生
 
 ```markdown
 Syntax highlighted code block
